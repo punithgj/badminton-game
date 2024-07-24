@@ -10,20 +10,28 @@ Each player has 3 different types of shots.
 Back-to-Back Clear ( + service )
 Front-to-Front Drop
 Intermediate Shot (medium power)
+
 CONTROLS
+
 LEFT PLAYER
- a and d for LEFT AND RIGHT MOVEMENT respectively
- space for JUMP
- q for BACK-TO-BACK CLEAR SHOT
- e for FRONT-TO-FRONT DROP SHOT
- t for INTERMEDIATE SHOT (MEDIUM POWER)
+ 1.a and d for LEFT AND RIGHT MOVEMENT respectively
+ 
+ 2.space for JUMP
+ 
+ 3.q for BACK-TO-BACK CLEAR SHOT
+
+ 4.e for FRONT-TO-FRONT DROP SHOT
+ 
+ 5.t for INTERMEDIATE SHOT (MEDIUM POWER)
+ 
 RIGHT PLAYER
- arrow left key and arrow right key for LEFT AND RIGHT MOVEMENT respectively
 
- arrow up key for JUMP
+ 1.arrow left key and arrow right key for LEFT AND RIGHT MOVEMENT respectively
 
- 4 for BACK-TO-BACK CLEAR SHOT
+ 2.arrow up key for JUMP
 
- 5 for FRONT-TO-FRONT DROP SHOT
+ 3.  4 for BACK-TO-BACK CLEAR SHOT
 
- + for INTERMEDIATE SHOT (MEDIUM POWER)
+ 4.  5for FRONT-TO-FRONT DROP SHOT
+
+ 5. + for INTERMEDIATE SHOT (MEDIUM POWER)
